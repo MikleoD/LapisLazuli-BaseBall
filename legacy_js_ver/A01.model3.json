@@ -1,12 +1,12 @@
 {
 	"Version": 3,
 	"FileReferences": {
-		"Moc": "LapisModel.moc3",
+		"Moc": "A02.moc3",
 		"Textures": [
 			"texture.png"
 		],
-		"Physics": "Lapis.physics3.json",
-		"DisplayInfo": "Lapis.cdi3.json"
+		"Physics": "C02.physics3.json",
+		"DisplayInfo": "C01.cdi3.json"
 	},
 	"Groups": [
 		{
