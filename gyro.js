@@ -13,12 +13,12 @@ console.log("Gyro Physics Input loaded");
 
 // Force du mouvement
 
-const POWER = 12;
+const POWER = 7;
 
 
 // vitesse oscillation
 
-const SPEED = 25;
+const SPEED = 24;
 
 
 // seuil secousse
@@ -206,7 +206,7 @@ function motion(event){
 
                 },
 
-                300
+                324
 
             );
 
